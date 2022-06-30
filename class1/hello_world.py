@@ -1,3 +1,3 @@
 name= "Gui"
 
-print("hello " + name)
+print("hello, " + name)
